@@ -82,8 +82,8 @@ nav#header-nav {
   	visibility: hidden;
   }
   div.row {
-  	margin-left: -60px;
-  	margin-right: -60px;
+  	margin-left: -40px;
+  	margin-right: -40px;
   }
   /* End Home Page*/
 }
