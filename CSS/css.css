@@ -4,7 +4,6 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
 }
 h2{
@@ -18,19 +17,19 @@ p{
 	margin-bottom: 15px;
 	background-color: gray;
 	position: relative;
-	width: 100%;
+	width: 90%;
 	height: auto;
 	font-family: Helvetica;
-	color: black;
-	padding-left: 4px;
-	padding-right: 4px;
+	color: #fff;
+	padding-left: auto;
+	padding-right: auto;
 
 }
-div.row {
-	margin-right: -100px;
-	margin-left: -100px;
+/*div.row {
+	margin-right: -60x;
+	margin-left: -60px;
 }
-
+*/
 em{
 	border: 1px solid black;
 	float: right;
@@ -49,7 +48,7 @@ em{
 .t3{
 	background-color: red;
 }
-#header-nav {
+/*#header-nav {
 	background-color: blue;
 }
 .bg-dark {
@@ -58,6 +57,7 @@ em{
 nav#header-nav {
 	background-color: blue;
 }
+*/
 
 
 /********** Large devices only **********/
